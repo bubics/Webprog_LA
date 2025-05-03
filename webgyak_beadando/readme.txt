@@ -1,6 +1,6 @@
 Github repository létrehozva a Web Gyakorlati feladat beadandóhoz.
 
-Weboldal elérhetőséges: http://webproggyak.nhely.hu/webgyak_beadando/index.php
+Weboldal elérhetősége: http://webproggyak.nhely.hu/webgyak_beadando/index.php
 Github URL címe: https://github.com/bubics/Webprog_LA
 FTP elérhetősége:
 Kapcsolat neve: 'Tetszés szerint meghatározott'
